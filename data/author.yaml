@@ -1,0 +1,18 @@
+# some information about you
+name: "Shaniya Hassan Ali"
+nickname: "Shannu"
+image: "images/avatar.png"
+
+# greeting message before your name. it will default to "Hi! I am" if not provided
+greeting: "Hi, I am"
+
+# give your contact information. they will be used in the footer
+contactInfo:
+  email: "vanguard.ai.code@gmail.com "
+  phone: "+971569175689"
+
+# a summary of what you do
+summary:
+- I am a ninja coder
+- A machine learning enthusiast
+- An aspiring indie game developer

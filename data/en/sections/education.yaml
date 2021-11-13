@@ -1,0 +1,60 @@
+# section information
+section:
+  name: Education
+  id: education
+  template: sections/education.html # Use "sections/education-alt.html for alternate template.
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+degrees:
+- name: Master of Science in Computing Science (Intelligent Systems and Visual Computing)
+  icon: fa-brain
+  timeframe: 2018-2021
+  institution:
+    name: University of Groningen, Groningen, Netherlands
+    url: "#"
+  publications: #(optional)
+  - title: Predicting Behavioural Patterns using GNN in Egocentric Images.
+    url: "#"
+  - title: Mining Self-Admitted Technical Debt in CodeReview Platforms.
+    url: "#"
+  takenCourses: #(optional)
+    # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
+    showGrades: false
+    courses:
+    - name: Pattern Recognition
+      achieved: 3.75
+      outOf: 4
+    - name: Neural Networks and Computational Intelligence
+      achieved: 3.80
+      outOf: 4
+    - name: Natural Language Processing
+      achieved: 3.5
+      outOf: 4
+    - name: Image Processing
+      achieved: 3.75
+      outOf: 4
+    - name: Computer Vision
+      achieved: 3.75
+      outOf: 4
+
+- name: Bachelor of Engineering (Hons) in Computer Science
+  icon: fa-graduation-cap
+  timeframe: 2006-2010
+  institution:
+    name: Birla Institute of Technology and Science, Dubai, UAE
+    url: "#"
+  # extracurricularActivities: #(optional)
+  # - In vitae facilisis est, eget porta sem.
+  # - Vestibulum consectetur lorem justo, at laoreet lorem feugiat et.
+  # - Duis sed massa feugiat, ornare justo et, aliquam est.
+  # - Pellentesque ut fringilla magna.
+- name: All India Senior School Certificate
+  icon: fa-university
+  timeframe: 2004-2006
+  institution:
+    name: Indian Islahi Islamic School, Abu Dhabi, UAE
+    url: "#"

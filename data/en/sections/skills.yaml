@@ -1,0 +1,36 @@
+# section information
+section:
+  name: Skills
+  id: skills
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+- name: Python
+  logo: "/images/sections/skills/python.png"
+  summary: "Extensively used in academic projects involving machine learning implementation and packages such as tensorflow, pytorch, scikit-learn etc."
+
+- name: "C-sharp"
+  logo: "/images/sections/skills/c-sharp.jpg"
+  summary: "Used as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
+
+- name: "MS-SQL"
+  logo: "/images/sections/skills/sql.svg"
+  summary: "Worked on creating complex procedures and management."
+
+- name: "HTML/CSS/JS"
+  logo: "/images/sections/skills/html-css-js.jpg"
+  summary: "Write most of the programs as dockerized container. Experienced with multi-stage, multi-arch build process."
+
+- name: Git
+  logo: "/images/sections/skills/git.png"
+  summary: "Experienced with git-based development. Mostly, use Github."
+
+- name: "C++"
+  logo: "/images/sections/skills/c++.png"
+  summary: "Know basic C/C++ programming. Used for academic programming and problem solving."

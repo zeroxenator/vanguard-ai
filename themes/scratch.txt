@@ -1,0 +1,41 @@
+# section information
+section:
+  name: Experiences
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your experiences
+experiences:
+- company:
+    name: First Abu Dhabi Bank
+    url: "https://www.bankfab.com/en-ae/personal"
+    location: Abu Dhabi, UAE
+    overview: "FAB, the UAE’s largest bank and one of the world’s largest and safest institutions, offers an extensive range of tailor-made solutions, and products and services, to provide a customised experience. Through its strategic offerings, it looks to meet the banking needs of customers across the world via its market-leading Corporate and Investment Banking and Personal Banking franchises."
+  positions:
+  - designation: Senior Technical Analyst
+    start: Jun 2017
+    end: Sep 2017
+    responsibilities:
+    - Actively involved in the merger discussions of NBAD with FGB establishing First Abu Dhabi Bank (FAB) as the largest bank in the UAE with $183 billion in assets.
+
+- company:
+    name: National Bank of Abu Dhabi
+    url: "https://www.bankfab.com/en-ae/personal"
+    location: Abu Dhabi, UAE
+    overview: "In April 2017, National Bank of Abu Dhabi (NBAD) and First Gulf Bank (FGB) merged to create First Abu Dhabi Bank (FAB)."
+  positions:
+  - designation: Technical Analyst
+    start: Nov 2014
+    end: Jun 2017
+    responsibilities:
+    - "Primary ownership and maintanence of in-house prepaid card system. Rewarded "Seamless Government Experience" @ Seamless Payments Middle East 2017."
+
+  - designation: Software Developer
+    start: May 2011
+    end: Nov 2014
+    responsibilities:
+    - "Research, design and implement real-time payment applications and core system modules. Fund Transfer System & Wages Protection System"

@@ -1,0 +1,67 @@
+section:
+  name: About # Title of section (default: "")
+  id: about # url id/slug of section *Required*
+  enable: true # Boolean to determine if this section is enabled (default: false)
+  weight: 1 # Order to display section in (default: alphabetical followed by weight)
+  showOnNavbar: true # Boolean to determine if a link should be shown for this section on the navbar
+  template: sections/about.html # allows you to point to a specific template.
+
+
+# your designation
+designation: Freelancer
+# your company information
+company:
+  name: vanguard-ai
+  url: "https://vanguard-ai.co"
+
+# a summary about you
+summary: 'I am a passionate coder with 6 years of working experience. I recently graduated in the machine learning wonders of the world. Aspiring to be a indie game developer.'
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Email
+  icon: "fas fa-envelope"
+  url: "vanguard.ai.code@gmail.com"
+
+- name: Github
+  icon: "fab fa-github"
+  url: "https://www.github.com/zeroxenator"
+
+# - name: Stackoverflow
+#   icon: "fab fa-stack-overflow"
+#   url: "#"
+
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/shaniyahassanali/"
+
+- name: Twitter
+  icon: "fab fa-twitter"
+  url: "https://twitter.com/vanguard_ai"
+
+# - name: Facebook
+#   icon: "fab fa-facebook"
+#   url: "#"
+
+# your resume. this file path should be relative to you "static" directory
+resume: "files/resume.pdf"
+
+# Show your badges
+# You can show your verifiable certificates from https://www.credly.com.
+# You can also show a circular bar indicating the level of expertise on a certain skill
+badges:
+- type: soft-skill-indicator
+  name: Data Science
+  percentage: 90
+  color: blue
+
+- type: soft-skill-indicator
+  name: Machine  Learning
+  percentage: 95
+  color: yellow
+
+- type: soft-skill-indicator
+  name: Data Visualization
+  percentage: 85
+  color: orange
