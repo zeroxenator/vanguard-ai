@@ -20,49 +20,51 @@ buttons:
   filter: "hobby"
 
 # your projects
+# use repo: If your project is a public repo on GitHub, then provide this link. it will show star count.
+# use url: If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
 projects:
 - name: Elpaso
-  logo: /images/sections/projects/kubernetes.png
-  role: Contributor
-  timeline: "March 2018 - Present"
-  # repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
-  #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  summary: Production-Grade Container Scheduling and Management.
-  tags: ["professional", "kubernetes", "cloud"]
+  # logo: /images/sections/projects/elpaso.png
+  role: Senior Technical Analyst/Technical Analyst
+  timeline: "Nov 2014 - Sep 2017"
+  # repo: https://github.com/kubernetes/kubernetes
+  url: "https://www.bankfab.com/en-ae/personal/prepaid-cards/edirham"
+  summary: Prepaid card system.
+  tags: ["professional", "prepaid-card", "management", "c-sharp", ".net", "ms-sql"]
 
 - name: Fund Transfer System
-  logo: /images/sections/projects/tensorflow.png
-  role: Developer
-  timeline: "Jun 2018 - Present"
-  repo: https://github.com/tensorflow/tensorflow
+  # logo: /images/sections/projects/tensorflow.png
+  role: Software Developer/Technical Analyst
+  timeline: "May 2011 - Nov 2014"
+  # repo: https://github.com/tensorflow/tensorflow
   #url: ""
-  summary: An Open Source Machine Learning Framework for Everyone.
-  tags: ["professional", "machine-learning"]
+  summary: Fund Transfer System
+  tags: ["professional", "fund-transfer", "vb.net", ".net", "ms-sql"]
 
 - name: Wages Protection System
-  logo: /images/sections/projects/tensorflow.png
-  role: Developer
-  timeline: "Jun 2018 - Present"
-  repo: https://github.com/tensorflow/tensorflow
+  # logo: /images/sections/projects/tensorflow.png
+  role: Software Developer
+  timeline: "May 2011 - Nov 2014"
+  # repo: https://github.com/tensorflow/tensorflow
   #url: ""
-  summary: An Open Source Machine Learning Framework for Everyone.
-  tags: ["professional", "machine-learning"]
+  summary: Wages Protection System
+  tags: ["professional", "wps", "vb.net", ".net", "ms-msql"]
 
 - name: Predicting Behavioural Patterns using GNN in Egocentric Images.
-  role: Team Lead
-  timeline: "Jan 2017 - Nov 2017"
-  url: "https://www.example.com"
+  role: Thesis Project
+  # timeline: "Jan 2021 - Aug 2021"
+  # url: "https://www.example.com"
   summary: Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente eius reprehenderit animi suscipit autem eligendi esse amet aliquid error eum. Accusantium distinctio soluta aliquid quas placeat modi suscipit eligendi nisi.
-  tags: ["academic","iot"]
+  tags: ["academic","machine-learning", "graph-neural-network", "pattern-recognition"]
 
-- name: Mining Self-Admitted Technical Debt in CodeReview Platforms.
-  role: Team Lead
-  timeline: "Jan 2017 - Nov 2017"
-  url: "https://www.example.com"
+- name: Mining Self-Admitted Technical Debt in Code Review Platforms.
+  role: Research Project
+  # timeline: "Jan 2017 - Jan 2021"
+  # url: "https://www.example.com"
   summary: Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente eius reprehenderit animi suscipit autem eligendi esse amet aliquid error eum. Accusantium distinctio soluta aliquid quas placeat modi suscipit eligendi nisi.
-  tags: ["academic","iot"]
+  tags: ["academic","machine-learning", "bert", "technical-debt", "binary-classification"]
 
-- name: Sentiment Analysis - Comparison of traditionalmethod vs BERT
+- name: Sentiment Analysis - Comparison of traditional method vs BERT
   role: Team Lead
   timeline: "Jan 2017 - Nov 2017"
   url: "https://www.example.com"

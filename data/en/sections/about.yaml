@@ -52,12 +52,12 @@ resume: "files/resume.pdf"
 # You can also show a circular bar indicating the level of expertise on a certain skill
 badges:
 - type: soft-skill-indicator
-  name: Data Science
+  name: Machine Learning
   percentage: 90
   color: blue
 
 - type: soft-skill-indicator
-  name: Machine  Learning
+  name: Data Science
   percentage: 95
   color: yellow
 
