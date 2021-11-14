@@ -25,7 +25,7 @@ skills:
 
 - name: "HTML/CSS/JS"
   logo: "/images/sections/skills/html-css-js.jpg"
-  summary: "Write most of the programs as dockerized container. Experienced with multi-stage, multi-arch build process."
+  summary: "Used in frontend applications and management."
 
 - name: Git
   logo: "/images/sections/skills/git.png"
