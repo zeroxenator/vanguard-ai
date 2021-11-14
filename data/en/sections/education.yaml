@@ -15,11 +15,11 @@ degrees:
   timeframe: 2018-2021
   institution:
     name: University of Groningen, Groningen, Netherlands
-    url: "#"
+    url: "https://www.rug.nl/?lang=en"
   publications: #(optional)
   - title: Predicting Behavioural Patterns using GNN in Egocentric Images.
     url: "#"
-  - title: Mining Self-Admitted Technical Debt in CodeReview Platforms.
+  - title: Mining Self-Admitted Technical Debt in Code Review Platforms.
     url: "#"
   takenCourses: #(optional)
     # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
@@ -41,12 +41,12 @@ degrees:
       achieved: 3.75
       outOf: 4
 
-- name: Bachelor of Engineering (Hons) in Computer Science
+- name: Bachelor of Engineering (Hons.) in Computer Science
   icon: fa-graduation-cap
   timeframe: 2006-2010
   institution:
     name: Birla Institute of Technology and Science, Dubai, UAE
-    url: "#"
+    url: "https://www.bits-pilani.ac.in/Dubai/"
   # extracurricularActivities: #(optional)
   # - In vitae facilisis est, eget porta sem.
   # - Vestibulum consectetur lorem justo, at laoreet lorem feugiat et.
