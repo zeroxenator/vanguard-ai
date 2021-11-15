@@ -27,22 +27,21 @@ projects:
   role: Thesis Project
   # timeline: "Jan 2021 - Aug 2021"
   # url: "https://www.example.com"
-  summary: "Researching different variants of Graph Neural Networks including GCN, GraphLSTM, STGCN etc. Preprocessing
-egocentric datasets - cleaning, aggregation, modelling for data input. Implement GCN and LSTM for comparison"
+  summary: "Researching different variants of Graph Neural Networks including GCN, GraphLSTM, STGCN etc. Preprocessing egocentric datasets - cleaning, aggregation, modelling for data input. Implement GCN and LSTM for comparison. Use GNN model to predict the user's next activities."
   tags: ["academic", "thesis", "machine-learning", "graph-neural-network", "pattern-recognition"]
 
 - name: Mining Self-Admitted Technical Debt in Code Review Platforms.
   role: Research Project
   # timeline: "Jan 2017 - Jan 2021"
   # url: "https://www.example.com"
-  summary: "Developed research methodology. Collection and mining of data from Github repo. Implement Binary and Multi-label  classification using Logistic Regression, BERT, Binary Relevance, Adaptive KNN."
+  summary: "Developed research methodology. Collection and mining of data from Github repo. Implement Binary and Multi-label  classification using Logistic Regression, BERT, Binary Relevance, Adaptive KNN. Use classication methods to identify technical debt from code review data."
   tags: ["academic","machine-learning", "bert", "technical-debt", "binary-classification"]
 
 - name: Sentiment Analysis - Comparison of traditional method vs BERT
   role: NLP Project
   # timeline: "Jan 2017 - Nov 2017"
   # url: "https://www.example.com"
-  summary: "Research state-of-art machine learning model BERT. Implement GloVe and BERT on IMDB reviews dataset forsentiment analysis."
+  summary: "Research state-of-art machine learning NLP model BERT. Implement GloVe and BERT on IMDB reviews dataset for sentiment analysis. Fine tune accuracy and hyper-parameters."
   tags: ["academic","machine-learning", "bert", "nlp", "sentiment-analysis"]
 
 - name: 5Chance

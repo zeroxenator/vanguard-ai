@@ -11,9 +11,21 @@ section:
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
+- name: Data Visualization
+  logo: "/images/sections/skills/visualization.png"
+  summary: "Experienced in using Tableau, pyvis, vis.js. Created graph representations showing relations between data."
+
+- name: Machine Learning
+  logo: "/images/sections/skills/ml.png"
+  summary: "Used supervised and non-supervised machine learning techniques on small and big datasets. Prediction tasks, classification, clustering and more."
+
+- name: Data Science
+  logo: "/images/sections/skills/data.png"
+  summary: "Use exploratory data analysis and perform statistical techniques on datasets."
+
 - name: Python
   logo: "/images/sections/skills/python.png"
-  summary: "Extensively used in academic projects involving machine learning implementation and packages such as tensorflow, pytorch, scikit-learn etc."
+  summary: "Extensively used in academic projects involving machine learning implementation using packages such as tensorflow, pytorch, scikit-learn etc."
 
 - name: "C-sharp"
   logo: "/images/sections/skills/c-sharp.jpg"
@@ -21,7 +33,7 @@ skills:
 
 - name: "MS-SQL"
   logo: "/images/sections/skills/sql.svg"
-  summary: "Worked on creating complex procedures and management."
+  summary: "Proficient in creating complex SQL procedures and management. Used in data retrieval and analysis."
 
 - name: "HTML/CSS/JS"
   logo: "/images/sections/skills/html-css-js.jpg"
