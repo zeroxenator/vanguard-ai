@@ -1,4 +1,5 @@
 # some information about you
+landingTitle: "vanguard-ai"
 name: "Shaniya Hassan Ali"
 nickname: "Shannu"
 image: "images/site/avatar.png"
@@ -13,6 +14,5 @@ contactInfo:
 
 # a summary of what you do
 summary:
-- I am a ninja coder
-- A machine learning enthusiast
-- An aspiring indie game developer
+- machine learning specialist
+- data science
