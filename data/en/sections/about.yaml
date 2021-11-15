@@ -8,14 +8,14 @@ section:
 
 
 # your designation
-designation: Freelancer
+designation: Founder
 # your company information
 company:
   name: vanguard-ai
   url: "https://vanguard-ai.co"
 
 # a summary about you
-summary: 'I am a passionate coder with 6 years of working experience in banking applications. I recently graduated (MSc Computing Science - University of Groningen) from the Netherlands focusing on Machine Learning core concepts. I am looking for interesting machine learning projects to work on. Additionally, currently I am learning about game development as a hobby.'
+summary: 'I am a passionate coder with 6 years of working experience in banking applications. I recently graduated (MSc Computing Science) from Univerity of Groningen, Netherlands, focusing on machine learning core concepts. My interest lies in behaviour prediction, natural language processing and recommendation systems. I am looking for interesting machine learning projects to work on. On the side, currently I am learning about game development as a hobby.'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -52,16 +52,31 @@ resume: "files/resume.pdf"
 # You can also show a circular bar indicating the level of expertise on a certain skill
 badges:
 - type: soft-skill-indicator
-  name: Machine Learning
-  percentage: 90
+  name: Leadership
+  percentage: 85
   color: blue
 
 - type: soft-skill-indicator
-  name: Data Science
+  name: Team Work
   percentage: 95
   color: yellow
 
 - type: soft-skill-indicator
-  name: Data Visualization
-  percentage: 85
+  name: Hardworking
+  percentage: 95
   color: orange
+
+- type: soft-skill-indicator
+  name: Adaptability
+  percentage: 90
+  color: "#01c1e5"
+
+- type: soft-skill-indicator
+  name: Problem-solving
+  percentage: 95
+  color: green
+
+- type: soft-skill-indicator
+  name: Creativity
+  percentage: 90
+  color: "#8742b4"
